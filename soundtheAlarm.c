@@ -6,7 +6,7 @@ main() {
     printf("Too many spaces    \b\b\b\b can be fixed with the ");
     printf("\\%c Escape character\n", 'b');
     printf("\n\a\n\a\n\a\n\aSkip a few lines, and beep ");
-    printf("a few beeps.\n\n\n");
+    printf("one beeps.\n\n\n");
     printf("%s %c.", "You are kicking butt learning", 'C');
     printf("You just finished chapter %d.\n You have finished ", 4);
     printf("%.1f%c of the book.\n", 12.500, '%');
