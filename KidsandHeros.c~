@@ -10,7 +10,6 @@ main() {
     char Hero1[]="Batman";
     char Hero2[34]="Spiderman";
     char Her3[25];
-    char HEEEE[45]
 
     strcpy(Kid1, "Katie");
     strcpy(Her3, "the Incredible Hulk");
