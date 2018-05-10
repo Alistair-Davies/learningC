@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
+
 main() {
+    #include "copyright.h"
     char Kid1[12];
     char Kid3[7]="Andrew";
     char Kid2[]="Maddie";
